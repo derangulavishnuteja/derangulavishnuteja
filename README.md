@@ -110,8 +110,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnutejaderangula&label=Profile+Views&color=238636&style=flat" alt="profile views" />
-</p>
-
 <p align="center"><i>"Turning raw data into decisions — one dashboard at a time."</i></p>
