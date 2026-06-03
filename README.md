@@ -1,149 +1,129 @@
-# Hi there, I'm Vishnu Teja 👋
+<h1 align="center">Hi, I'm Vishnu Teja 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/derangula-vishnu-teja-30aa14323/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/derangulavishnuteja)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vishnutejaderangula20.09@gmail.com)
-![Location](https://img.shields.io/badge/India-🇮🇳-orange?style=for-the-badge)
+<p align="center">
+  <b>CS Undergrad · Full Stack Developer · AI & Data Analytics Enthusiast</b><br/>
+  <i>Building real-world projects while pursuing B.Tech @ SR University (2023–2027)</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/derangula-vishnu-teja-30aa14323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/derangulavishnuteja">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:vishnutejaderangula20.09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Fresher%20Roles-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-> *Computer Science undergraduate passionate about Full Stack Development, AI Engineering, and Software Engineering.*
+I'm a 2nd-year Computer Science student who enjoys turning ideas into working software. I've shipped a **live real-time web application**, completed a **virtual internship at Deloitte**, and I'm actively building skills across full stack development, AI engineering, and data analytics.
 
-* 🎓 B.Tech in Computer Science @ **SR University** (2023 – 2027)
-* 💻 Skilled in **JavaScript, Python, SQL, HTML, CSS, ReactJS, and Firebase**
-* 🤖 Experienced in building **AI-powered applications** using LLMs, prompt engineering, and ML pipelines
-* 📊 Proficient in **Data Analytics** — data wrangling, visualization, and deriving actionable insights
-* 🚀 Experienced in building **real-time web applications** and responsive user interfaces
-* 🧩 Strong foundation in **Data Structures & Algorithms**
-* 🔧 Experienced with **Git, GitHub, REST APIs, and modern development workflows**
-* 🌱 Currently learning **Node.js, NextJS, Docker, Cloud Technologies, and System Design**
-* 📬 Reach me at: **[vishnutejaderangula20.09@gmail.com](mailto:vishnutejaderangula20.09@gmail.com)** | 📞 +91 7075098147
+- 🎓 B.Tech CSE @ **SR University** (2023 – 2027)
+- 🚀 Built and deployed a **real-time Flight Tracking System** used across desktop & mobile
+- 🤖 Exploring **AI/LLM integration** and data-driven problem solving
+- 🌱 Currently leveling up in **Node.js, Next.js, and Cloud (AWS/GCP basics)**
+- 💬 I write clean code, ask good questions, and learn fast
+- 📬 **vishnutejaderangula20.09@gmail.com** · 📞 +91 7075098147
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### Languages
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend
+**Frontend & Backend**
 
-![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
-### Backend
+**AI & Data Analytics**
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6B21A8?style=flat-square)
 
-### AI & Machine Learning
+**Databases & Tools**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6B21A8?style=for-the-badge)
-
-### Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-### ✈️ Flight Tracking System — Real-Time Web Application
+### ✈️ Flight Tracking System — [Live Demo](https://flight-dashboard-phi.vercel.app/login.html)
 
-> *Role-based flight tracking dashboard built with Firebase & JavaScript*
+> Real-time role-based flight dashboard · JavaScript · Firebase · Vercel
 
-* 🔐 Implemented Admin/User authentication and access control
-* ⚡ Integrated Firebase Realtime Database for live flight status updates
-* 📊 Built interactive dashboards displaying real-time flight information
-* 📱 Developed responsive UI compatible across desktop and mobile devices
-* 🔧 Managed source code using Git and GitHub
+- 🔐 Built **Admin & User role authentication** with access control from scratch
+- ⚡ Used **Firebase Realtime Database** to push live flight status updates without page refresh
+- 📊 Designed interactive dashboards that display live data in a clean, readable layout
+- 📱 Fully **responsive UI** — works on mobile, tablet, and desktop
+- 🔧 Deployed on **Vercel**; version-controlled with Git/GitHub
 
-### 🔗 Project Link
-
-https://flight-dashboard-phi.vercel.app/login.html
+> 💡 *This project taught me how to architect a real-time system, manage auth flows, and think about UX for different user roles — all from scratch.*
 
 ---
 
 ## 💼 Experience
 
-### 📋 Software Development Virtual Intern — Deloitte (2024, Remote)
+### Deloitte — Software Development Virtual Intern *(2024, Remote)*
 
-* Applied software engineering principles to solve real-world business scenarios
-* Practised debugging, requirement analysis, documentation, and problem solving
-* Worked with Agile development methodologies and stakeholder communication
-* Improved technical and professional skills through simulated industry projects
+- Solved business scenarios using software engineering principles (debugging, requirement analysis, documentation)
+- Practiced **Agile workflows** and stakeholder communication in a simulated industry environment
+- Completed the **Deloitte Data Analytics Virtual Experience** — worked with data sets to derive insights
 
 ---
 
 ## 🏆 Certifications
 
-| Certificate                                | Issuer      |
-| ------------------------------------------ | ----------- |
-| Deloitte Data Analytics Virtual Experience | Deloitte    |
-| Google Certified Student Program           | Google      |
-| Web Development Programming                | Simplilearn |
-
----
-
-## 🎯 Core Competencies
-
-```text
-💻 Full Stack Development      🤖 AI Engineering & LLM Integration
-📊 Data Analytics & Visualization  🧩 Data Structures & Algorithms
-⚡ Problem Solving             🔗 REST API Development
-📱 Responsive Web Design       🔄 Git & GitHub
-🚀 Agile Methodology           ☁️ Cloud Fundamentals
-🧠 Prompt Engineering          🔍 Data Wrangling & EDA
-```
+| Certificate | Issuer |
+|---|---|
+| Data Analytics Virtual Experience | Deloitte |
+| Google Certified Student Program | Google |
+| Web Development Programming | Simplilearn |
 
 ---
 
 ## 📚 Education
 
-| Degree                                | Institution             | Score        |
-| ------------------------------------- | ----------------------- | ------------ |
-| B.Tech – Computer Science Engineering | SR University           | CGPA: 6.1/10 |
-| Class XII – MPC                       | Ekashila Junior College | 70%          |
+| Degree | Institution | Score |
+|---|---|---|
+| B.Tech – Computer Science Engineering | SR University | CGPA: 6.1/10 |
+| Class XII – MPC | Ekashila Junior College | 70% |
 
 ---
 
-## 🌱 Interests
+## 📈 What I'm Working On
 
-* 💻 Full Stack Development
-* 🤖 AI Engineering
-* 📊 Data Analytics
-* ☁️ Cloud Computing
-* 🏗️ System Design
-* 🔓 Open Source Contribution
-* 🚀 Software Engineering
+- 🔨 Adding AI features (ChatGPT API) to my existing projects
+- 📊 Building a data analytics mini-project using Python + Pandas
+- ☁️ Learning AWS fundamentals and Docker basics
+- 🧠 Practicing DSA daily on LeetCode
 
 ---
 
-<p align="center"><i>"Building scalable applications and solving real-world problems through code."</i></p>
+<p align="center">
+  <i>"I'm a fresher with real shipped work, a hunger to learn, and the consistency to keep building."</i><br/><br/>
+  <b>Open to Internships · Full-time Fresher Roles · Collaborative Projects</b>
+</p>
