@@ -120,6 +120,7 @@ I'm a Final year Computer Science student who enjoys turning ideas into working 
 - 📊 Building a data analytics mini-project using Python + Pandas
 - ☁️ Learning AWS fundamentals and Docker basics
 - 🧠 Practicing DSA daily on LeetCode
+-    Learning AI Engineer Skills
 
 ---
 
