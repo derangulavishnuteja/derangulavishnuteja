@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vishnu Teja 👋</h1>
 
 <p align="center">
-  <b>CS Undergrad · Full Stack Developer · AI & Data Analytics Enthusiast </b>b AI Enginner </b><br/>
+  <b>CS Undergrad · Full Stack Developer · AI & Data Analytics Enthusiast </b> AI Enginner </b><br/>
   <i>Building real-world projects while pursuing B.Tech @ SR University (2023–2027)</i>
 </p>
 
