@@ -56,7 +56,7 @@
 - 🌍 Built **localisation-ready responsive design** in HTML/CSS — consistent across all devices and regions
 - ⚡ Integrated **Firebase Realtime Database** for instant live data sync without page reload
 
-[![View Project](https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Project](https://flight-dashboard-phi.vercel.app/login.html)](#)
 
 ---
 
