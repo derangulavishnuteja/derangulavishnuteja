@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 2nd-year Computer Science student who enjoys turning ideas into working software. I've shipped a **live real-time web application**, completed a **virtual internship at Deloitte**, and I'm actively building skills across full stack development, AI engineering, and data analytics.
+I'm a Final year Computer Science student who enjoys turning ideas into working software. I've shipped a **live real-time web application**, completed a **virtual internship at Deloitte**, and I'm actively building skills across full stack development, AI engineering, and data analytics.
 
 - 🎓 B.Tech CSE @ **SR University** (2023 – 2027)
 - 🚀 Built and deployed a **real-time Flight Tracking System** used across desktop & mobile
