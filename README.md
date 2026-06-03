@@ -9,10 +9,12 @@
 
 ## 👨‍💻 About Me
 
-> *Computer Science undergraduate passionate about Full Stack Development and Software Engineering.*
+> *Computer Science undergraduate passionate about Full Stack Development, AI Engineering, and Software Engineering.*
 
 * 🎓 B.Tech in Computer Science @ **SR University** (2023 – 2027)
 * 💻 Skilled in **JavaScript, Python, SQL, HTML, CSS, ReactJS, and Firebase**
+* 🤖 Experienced in building **AI-powered applications** using LLMs, prompt engineering, and ML pipelines
+* 📊 Proficient in **Data Analytics** — data wrangling, visualization, and deriving actionable insights
 * 🚀 Experienced in building **real-time web applications** and responsive user interfaces
 * 🧩 Strong foundation in **Data Structures & Algorithms**
 * 🔧 Experienced with **Git, GitHub, REST APIs, and modern development workflows**
@@ -41,6 +43,22 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
+### AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6B21A8?style=for-the-badge)
+
+### Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -51,6 +69,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
@@ -96,10 +115,12 @@ https://flight-dashboard-phi.vercel.app/login.html
 ## 🎯 Core Competencies
 
 ```text
-💻 Full Stack Development      🧩 Data Structures & Algorithms
+💻 Full Stack Development      🤖 AI Engineering & LLM Integration
+📊 Data Analytics & Visualization  🧩 Data Structures & Algorithms
 ⚡ Problem Solving             🔗 REST API Development
 📱 Responsive Web Design       🔄 Git & GitHub
 🚀 Agile Methodology           ☁️ Cloud Fundamentals
+🧠 Prompt Engineering          🔍 Data Wrangling & EDA
 ```
 
 ---
@@ -116,6 +137,8 @@ https://flight-dashboard-phi.vercel.app/login.html
 ## 🌱 Interests
 
 * 💻 Full Stack Development
+* 🤖 AI Engineering
+* 📊 Data Analytics
 * ☁️ Cloud Computing
 * 🏗️ System Design
 * 🔓 Open Source Contribution
